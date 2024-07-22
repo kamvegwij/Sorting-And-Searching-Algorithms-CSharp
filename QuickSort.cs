@@ -5,26 +5,36 @@ using System.Linq;
 using System.Text;
 
 public class QuickSorting
-{ 
+{
     /*
      * 
      * Time Complexity:
      *      Best Case-> 0(N log N)
      *      Average Case-> 0(N log N)
      *      Worst Case-> O(N^2)
+     *      
+     *Space Complexity: 
+     *      O(1) excluding recursive stack and
+     *      O(n) when including recursive stack.
+     *      
+     *Use Cases:
+     *      1. Effective for large data sets.
+     *      2. Not good for sorting repeatable data.
      */
     public QuickSorting()
     {
         Console.WriteLine("***Quick Sort Algorithm***");
     }
 
-    public static void Sort(int[] arr, int left, int right)
+    public static void Sort(int[] arr, int start, int end)
     {
-        if (left < right)
+        // call using Sort(arr, x, n - 1);
+        if (start < end)
         {
-            int pivot = QPartition(arr, left, right);
-            Sort(arr, left, pivot - 1);
-            Sort(arr, pivot + 1, right);
+            int pivot = QPartition(arr, start, end);
+            Sort(arr, start, pivot - 1);
+            Sort(arr, pivot + 1, end);
+            Console.WriteLine("Merge Sorting Complete!");
         }
     }
     private static int QPartition(int[] arr, int left, int right)
