@@ -1,0 +1,15 @@
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\bin\Debug\net6.0\SortingSearchingAlgorithms.exe
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\bin\Debug\net6.0\SortingSearchingAlgorithms.deps.json
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\bin\Debug\net6.0\SortingSearchingAlgorithms.runtimeconfig.json
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\bin\Debug\net6.0\SortingSearchingAlgorithms.dll
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\bin\Debug\net6.0\SortingSearchingAlgorithms.pdb
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.csproj.AssemblyReference.cache
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.AssemblyInfoInputs.cache
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.AssemblyInfo.cs
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.csproj.CoreCompileInputs.cache
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.dll
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\refint\SortingSearchingAlgorithms.dll
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.pdb
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\SortingSearchingAlgorithms.genruntimeconfig.cache
+C:\BuiltSoftware\CodingInterviewChallenges\SortingSearchingAlgorithms\obj\Debug\net6.0\ref\SortingSearchingAlgorithms.dll
